@@ -1,4 +1,5 @@
 {
-    "equipos" : [],
-    "preguntas" : []
+    "productos" : [ 
+     "revistas","libros","carteras"
+    ]
 }
